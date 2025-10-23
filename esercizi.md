@@ -65,7 +65,7 @@ Scrivere un programma funzionale che, dato un numero in input ($max), stampi a v
 
 ## Esercizio 4
 
-Scrivere un programma che, data una stringa in input dal readline, conti quante vocali sono state inserite
+Scrivere un programma che, data una stringa in input, conti quante vocali sono state inserite
 
 ```php
 //Esempio
